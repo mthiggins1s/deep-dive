@@ -9,5 +9,5 @@ import { ButtonComponent } from "../shared/button/button.component";
   styleUrl: './header.component.css'
 })
 export class HeaderComponent {
- // Note: starting the supporting content projection video
+
 }
